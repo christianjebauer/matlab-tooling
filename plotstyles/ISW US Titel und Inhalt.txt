@@ -14,7 +14,7 @@ FixedLineWidth 1.5
 ScaledLineWidth auto
 LineMode fixed
 LineWidthMin 1.5
-FontName Arial
+FontName Univers for UniS 55 Roman
 FontWeight auto
 FontAngle auto
 FontEncoding latin1
